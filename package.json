@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/khanlazyanas/backendauthsystem/issues"
   },
-  "homepage": "https://github.com/khanlazyanas/backendauthsystem#readme"
+  "homepage": "https://github.com/khanlazyanas/backendauthsystem#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "cors": "^2.8.5",
+    "mongoose": "^7.3.2",
+    "cookie-parser": "^1.4.6",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
